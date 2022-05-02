@@ -1,2 +1,2 @@
-# Diary_Java
+# Diary_JavaFx
 Program do obsługi dziennika
