@@ -1,2 +1,2 @@
 # Diary_JavaFx
-Program do obsługi dziennika
+Aplikacja do obsługi dziennika napisany w technologii JavaFx.
